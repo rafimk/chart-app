@@ -1,0 +1,63 @@
+2023-09-19 11:11:13,102 [WARNING] -  * Debugger is active!
+2023-09-19 11:11:13,109 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:11:32,056 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-19 11:11:32,056 [INFO] - [33mPress CTRL+C to quit[0m
+2023-09-19 11:11:32,067 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:11:32,328 [WARNING] -  * Debugger is active!
+2023-09-19 11:11:32,333 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:11:47,275 [INFO] - Starting the application
+2023-09-19 11:11:47,277 [INFO] - 127.0.0.1 - - [19/Sep/2023 11:11:47] "[33mGET /images/Wheel_of_Life.jpg HTTP/1.1[0m" 404 -
+2023-09-19 11:13:03,806 [INFO] - Starting the application
+2023-09-19 11:13:03,807 [INFO] - 127.0.0.1 - - [19/Sep/2023 11:13:03] "[33mGET /images/Wheel_of_Life.jpg HTTP/1.1[0m" 404 -
+2023-09-19 11:13:18,489 [INFO] -  * Detected change in 'C:\\ProgramData\\anaconda-new-v3\\Lib\\site-packages\\_pytest\\junitxml.py', reloading
+2023-09-19 11:13:19,596 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:13:19,869 [WARNING] -  * Debugger is active!
+2023-09-19 11:13:19,879 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:13:58,632 [INFO] - 127.0.0.1 - - [19/Sep/2023 11:13:58] "[33mGET /images/ HTTP/1.1[0m" 404 -
+2023-09-19 11:17:51,053 [INFO] - Starting the application
+2023-09-19 11:17:51,056 [INFO] - 127.0.0.1 - - [19/Sep/2023 11:17:51] "[33mGET /images/Wheel_of_Life.jpg HTTP/1.1[0m" 404 -
+2023-09-19 11:17:57,955 [INFO] - 127.0.0.1 - - [19/Sep/2023 11:17:57] "[33mGET /charts/Wheel_of_Life.jpg HTTP/1.1[0m" 404 -
+2023-09-19 11:19:37,197 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\static_file_server.py', reloading
+2023-09-19 11:19:38,233 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:19:38,474 [WARNING] -  * Debugger is active!
+2023-09-19 11:19:38,479 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:19:44,673 [INFO] -  * Detected change in 'C:\\ProgramData\\anaconda-new-v3\\Lib\\http\\server.py', reloading
+2023-09-19 11:19:44,722 [INFO] -  * Detected change in 'C:\\ProgramData\\anaconda-new-v3\\Lib\\socketserver.py', reloading
+2023-09-19 11:19:45,764 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:19:46,057 [WARNING] -  * Debugger is active!
+2023-09-19 11:19:46,063 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:19:57,800 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\static_file_server.py', reloading
+2023-09-19 11:19:57,812 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\static_file_server.py', reloading
+2023-09-19 11:19:58,869 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:19:59,102 [WARNING] -  * Debugger is active!
+2023-09-19 11:19:59,107 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:38:44,719 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-19 11:38:44,719 [INFO] - [33mPress CTRL+C to quit[0m
+2023-09-19 11:38:44,728 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:38:44,944 [WARNING] -  * Debugger is active!
+2023-09-19 11:38:44,948 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:39:01,404 [INFO] - Starting the application
+2023-09-19 11:39:01,406 [INFO] - 127.0.0.1 - - [19/Sep/2023 11:39:01] "[33mGET /images/stylish_wheel_of_life.png HTTP/1.1[0m" 404 -
+2023-09-19 11:39:39,580 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\app.py', reloading
+2023-09-19 11:39:39,582 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\app.py', reloading
+2023-09-19 11:39:39,583 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\app.py', reloading
+2023-09-19 11:39:39,584 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\app.py', reloading
+2023-09-19 11:39:40,645 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:39:40,895 [WARNING] -  * Debugger is active!
+2023-09-19 11:39:40,902 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:39:59,964 [INFO] -  * Detected change in 'C:\\ProgramData\\anaconda-new-v3\\Lib\\site-packages\\matplotlib\\pyplot.py', reloading
+2023-09-19 11:40:01,085 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:40:01,368 [WARNING] -  * Debugger is active!
+2023-09-19 11:40:01,377 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:46:42,503 [INFO] -  * Detected change in 'C:\\ProgramData\\anaconda-new-v3\\Lib\\uuid.py', reloading
+2023-09-19 11:46:43,535 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:46:43,800 [WARNING] -  * Debugger is active!
+2023-09-19 11:46:43,805 [INFO] -  * Debugger PIN: 116-470-355
+2023-09-19 11:50:49,340 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\app.py', reloading
+2023-09-19 11:50:49,341 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\app.py', reloading
+2023-09-19 11:50:49,342 [INFO] -  * Detected change in 'C:\\poc\\Python\\chart-app\\app.py', reloading
+2023-09-19 11:50:50,402 [INFO] -  * Restarting with watchdog (windowsapi)
+2023-09-19 11:50:50,639 [WARNING] -  * Debugger is active!
+2023-09-19 11:50:50,643 [INFO] -  * Debugger PIN: 116-470-355
